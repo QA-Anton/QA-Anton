@@ -29,8 +29,7 @@ _____
 
 ### Test documentation:
 
-<img src="https://camo.githubusercontent.com/997fa80537d8b41d7135f8f1f6149373577b302cacae6e600a02dceea594db8e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2e737667" title="jira" alt="jira" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/208f90d02e23fef65bd3928ec109757018fd19408b2400d6b1efc5c7821542c5/68747470733a2f2f646f63732e7465737469742e736f6674776172652f696d616765732f7465737469745f6c6f676f5f69636f6e5f626c75652e706e67" title="test-it" alt="test-it" width="40" height="40" data-canonical-src="https://docs.testit.software/images/testit_logo_icon_blue.png" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/997fa80537d8b41d7135f8f1f6149373577b302cacae6e600a02dceea594db8e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6972612f6a6972612d6f726967696e616c2e737667" title="jira" alt="jira" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/208f90d02e23fef65bd3928ec109757018fd19408b2400d6b1efc5c7821542c5/68747470733a2f2f646f63732e7465737469742e736f6674776172652f696d616765732f7465737469745f6c6f676f5f69636f6e5f626c75652e706e67" title="test-it" alt="test-it" width="40" height="40" data-canonical-src="https://docs.testit.software/images/testit_logo_icon_blue.png" style="max-width: 100%;">
 <img src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png" alt="Azure Devops" title="Azure Devops" width="40" height="40"  class="detailLogoImage">
 <img src="https://camo.githubusercontent.com/7571d880c64bd298b295e16456a57fbab5ce595b786e2a52e2102a47e4ea0a0d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38642f596f75547261636b5f49636f6e2e7376672f3130323470782d596f75547261636b5f49636f6e2e7376672e706e673f3230323030383033303832323438" title="youtrack" alt="youtrack" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/d774bfb8ca966ae68f63fe49319e9ae4e1d6182355c0264cdf597dfe9b558976/68747470733a2f2f6c756e61312e636f2f6562303138372e706e67" title="qase" alt="qase" width="40" height="40" data-canonical-src="https://luna1.co/eb0187.png" style="max-width: 100%;">
@@ -50,3 +49,14 @@ _____
 ### Working with data:
 
 <img src="https://camo.githubusercontent.com/5e956ea0943b5a05092e94d7376582051e61fe84af215ad6e35334a2d61b658a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" title="mysql" alt="mysql" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
+
+### Completed courses:
+
+"Software Testing from scratch. Theory + Practice"
+
+https://stepik.org/course/171826/promo#toc
+
+
+### My Certificates:
+
+![Certificates](https://github.com/QA-Anton/QA-Anton/blob/main/Assets/stepik-certificate.png)
