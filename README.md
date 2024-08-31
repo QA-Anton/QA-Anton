@@ -51,8 +51,13 @@ _____
 ## Completed courses:
 
 ### ["Software Testing from scratch. Theory + Practice"](https://stepik.org/course/171826/promo#toc)
+Stepik (Course Author - Artsiom Rusau)
+
+### ["Postman - Ninja: From Zero to Automated Tests"](https://stepik.org/course/198019/promo#toc?search=5126140829)
+Stepik (Course Author - Oleg Malyshev)
 ___
 
 ### My Certificates:
 
 ![Certificates](https://github.com/QA-Anton/QA-Anton/blob/main/Assets/stepik-certificate.png)
+![Certificates](https://github.com/QA-Anton/QA-Anton/blob/main/Assets/postman.stepik-certificate.png)
