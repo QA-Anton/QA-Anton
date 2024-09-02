@@ -13,7 +13,7 @@ I started my journey into IT by self-learning software testing through YouTube t
 * ✉️  You can contact me at 
 
 * [![telegram](https://img.shields.io/badge/_telegram-black?style=for-the-badge&logo=telegram)](https://t.me/mynewhomegeorgia)
-[![gmail](https://img.shields.io/badge/_gmail-black?style=for-the-badge&logo=gmail)](georgia.freedom.job@gmail.com)
+<a href="georgia.freedom.job@gmail.com">![gmail](https://img.shields.io/badge/_gmail-black?style=for-the-badge&logo=gmail)
 
 
 
