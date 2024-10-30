@@ -1,4 +1,4 @@
-![Header](https://github.com/QA-Anton/QA-Anton/blob/main/Assets/QA-Anton_GitHub_Header.png)
+![Header](https://drive.google.com/file/d/1cjqgkOoSj8ZrkRZzYbsRh8TShP0oqevr/view?usp=sharing)
 
 Hi 👋 My name is Anton
 ======================
